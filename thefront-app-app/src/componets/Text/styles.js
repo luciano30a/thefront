@@ -2,17 +2,23 @@ import { makeStyles } from '@material-ui/core/styles';
 
 const styles = makeStyles( () => ( {
     Title: {
-        fontFamily: 'sans-serif',
-         fontSize: 36
+        fontFamily: 'Lato,sans-serif',
+        fontSize: 36,
+        color:"#2d3748",
+         
     },
     Subtitulo: {
-        fontFamily: 'sans-serif',
-        fontSize: 24
+        fontFamily: 'Lato,sans-serif',
+        fontSize: 24,
+        color:"#2d3748",
+
     },
 
     body: {
-        fontFamily: 'sans-serif',
-        fontSize: 14
+        fontFamily: 'Lato,sans-serif',
+        fontSize: 14,
+        color:"#2d3748",
+
     },
 
     
